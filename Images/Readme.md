@@ -1,1 +1,1 @@
-# Images
+# Summary of Included Images
