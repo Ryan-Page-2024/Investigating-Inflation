@@ -21,4 +21,4 @@ This dataset records dates where inflation expectations experienced lower band v
 <br>
 
 ## File Name: actuals
-This dataset contains actual daily observations for the 10-Year Breakeven Inflation Rate (T10YIE) following the May, 15th 2026 through January 1st, 2027.
+This dataset contains actual daily observations for the 10-Year Breakeven Inflation Rate (T10YIE) following May, 15th 2026 through January 1st, 2027.
